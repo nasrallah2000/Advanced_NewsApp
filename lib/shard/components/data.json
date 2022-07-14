@@ -1,0 +1,307 @@
+
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+
+    {
+
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "China Hedge Fund Manager Bullish on Mainland Shares - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=53f1fa20-d98b-11ec-9c47-65615867735a&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0yMi9oZWRnZS1mdW5kLXVwLTEzOC10aGlzLXllYXItaXMtdHVybmluZy1idWxsaXNoLW9uLWNoaW5hLXN0b2Nrcw==",
+      "urlToImage": null,
+      "publishedAt": "2022-05-22T00:00:00Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Adam Sabes",
+      "title": "Jif issues voluntary recall of certain peanut butter products due to potential Salmonella contamination - Fox Business",
+      "description": "The J.M. Smucker Company is recalling multiple Jif peanut butter products because of potential Salmonella contamination that has caused at least 14 people to become sick so far.",
+      "url": "https://www.foxbusiness.com/retail/jif-recall-peanut-butter-salmonella",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/05/0/0/Untitled-design-188.png?ve=1&tl=1",
+      "publishedAt": "2022-05-21T22:59:01Z",
+      "content": "The J.M. Smucker Company issued a voluntary recall on Friday for select Jif peanut butter products that are sold in the United States because of potential Salmonella contamination.\r\nAccording to the … [+1771 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Housing: Existing home sales fall to lowest level since June 2020 as mortgage rates rise - Yahoo Finance",
+      "description": "#Housing #Homes #MortgagesYahoo Finance's Julie Hyman breaks down April existing home sales data.Don't Miss: Valley of Hype: The Culture That Built Elizabeth...",
+      "url": "https://www.youtube.com/watch?v=LmBSWiRy4zk",
+      "urlToImage": "https://i.ytimg.com/vi/LmBSWiRy4zk/maxresdefault.jpg",
+      "publishedAt": "2022-05-21T22:55:57Z",
+      "content": null
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Man attacks a food vendor in Times Square - Eyewitness News ABC7NY",
+      "description": null,
+      "url": "https://www.youtube.com/supported_browsers?next_url=https:%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D9IBLvg0yEXQ",
+      "urlToImage": null,
+      "publishedAt": "2022-05-21T22:46:38Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Rachel Koning Beals",
+      "title": "Elon Musk called ESG a scam — did the Tesla chief do investors a favor? - MarketWatch",
+      "description": "A ‘kitchen sink’ ESG approach that integrates dozens of variables does investors no favors",
+      "url": "https://www.marketwatch.com/story/elon-musk-called-esg-a-scam-did-the-tesla-chief-do-investors-a-favor-11653171110",
+      "urlToImage": "https://images.mktw.net/im-528682/social",
+      "publishedAt": "2022-05-21T22:11:00Z",
+      "content": "Investing usually uses a combination of head, heart and gut even if its not supposed to. And perhaps no market theme stirs all the feels quite like ESG.This week, a major move to cut Tesla from a clo… [+7765 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Andrew Miller",
+      "title": "Wells Fargo accused of holding fake job interviews with minority candidates: report - Fox Business",
+      "description": "Wells Fargo is being accused by a former executive of conducting fake job interviews with minority candidates for jobs that were already promised to another candidate.",
+      "url": "https://www.foxbusiness.com/economy/wells-fargo-fake-job-interviews",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2018/02/0/0/42bec330-2017-04-07T162323Z_1_LYNXMPED3618E_3_WELLS-FARGO-RESULTS.jpg?ve=1&tl=1",
+      "publishedAt": "2022-05-21T21:15:33Z",
+      "content": "A former executive at Wells \r\nFargo\r\nbank is claiming that the company held \"fake\" job interviews for minority candidates for positions that had already been filled and says he was fired for bringing… [+2715 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Emmett Jones",
+      "title": "Florida woman at McDonald's flips out over wrong order, calls 911, twerks - Fox News",
+      "description": "Polk County, Florida Sheriff Grady Judd said 22-year-old Tianis Judd became \"McMad\" over her McDonalds order, called 911, threw condiments on the floor and twerked on the way out.",
+      "url": "https://www.foxnews.com/us/florida-woman-mcdonalds-911-twerk",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/05/tianis-jones-mcdonalds.jpg",
+      "publishedAt": "2022-05-21T20:38:19Z",
+      "content": "A Florida woman was arrested Friday after throwing and knocking things down at a McDonald's. \r\nThe woman, identified as Tianis Jones, 22, intended to pick up her order of a Happy Meal, chocolate shak… [+2048 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ramishah Maruf, CNN",
+      "title": "Hyundai to build $5.5 billion EV and battery plant in the US. Here's where - CNN",
+      "description": "Georgia will be home to Hyundai's first dedicated EV plant and battery manufacturing facility in the United States, the company announced Friday.",
+      "url": "https://www.cnn.com/2022/05/21/business/hyundai-georgia-ev-battery-plant/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220521125859-01-hyundai-georgia-ev-battery-plant-super-tease.jpg",
+      "publishedAt": "2022-05-21T20:09:00Z",
+      "content": "New York (CNN)Georgia will be home to Hyundai's first dedicated EV plant and battery manufacturing facility in the United States, the company announced Friday. \r\nHyundai is investing almost $5.5 bill… [+2216 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Zoe Sottile, CNN",
+      "title": "2-year-old orders 31 cheeseburgers after mom leaves phone unlocked - CNN",
+      "description": "A Texas mother learned an important lesson about leaving her phone unlocked after her 2-year-old son accidentally ordered 31 McDonald's cheeseburgers from DoorDash.",
+      "url": "https://www.cnn.com/2022/05/21/us/texas-toddler-mcdonalds-cheeseburger-doordash-trnd/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220520121046-01-toddler-cheeseburger-doordash-super-tease.jpg",
+      "publishedAt": "2022-05-21T19:11:00Z",
+      "content": null
+    },
+
+    {
+
+      "source": {
+        "id": "the-verge",
+        "name": "The Verge"
+      },
+      "author": "Emma Roth",
+      "title": "Crypto exchange FTX is getting into stock trading - The Verge",
+      "description": "Cryptocurrency exchange FTX has announced that it’s giving select users in the US a chance to try out its new stock trading functionality ahead of opening the feature to more users.",
+      "url": "https://www.theverge.com/2022/5/21/23135897/crypto-exchange-ftx-getting-into-stock-trading",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/nFXmUqSi5kTnvjpfys-lU0mOu1A=/0x215:3000x1786/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/8937285/acastro_170726_1777_0007_v5.jpg",
+      "publishedAt": "2022-05-21T17:58:51Z",
+      "content": "Its coming to a select group of users in the US first\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nIllustration by Alex Castro / The Verge\r\nCry… [+2333 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "More Horrors Await After $550 Billion Retail Earnings Meltdown - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=e3c28f0e-d969-11ec-8732-67587554726a&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNS0yMS9tb3JlLWhvcnJvcnMtYXdhaXQtYWZ0ZXItNTUwLWJpbGxpb24tcmV0YWlsLWVhcm5pbmdzLW1lbHRkb3du",
+      "urlToImage": null,
+      "publishedAt": "2022-05-21T17:00:00Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "Bitcoin.com"
+      },
+      "author": null,
+      "title": "Crypto's Barren Wasteland: A Look at What's Left of Terra's Defi and Token Ruins – Bitcoin News - Bitcoin News",
+      "description": "Following the Terra fallout and the great UST de-pegging event, the Terra network ecosystem is now a wasteland of almost worthless tokens.",
+      "url": "https://news.bitcoin.com/cryptos-barren-wasteland-a-look-at-whats-left-of-terras-defi-and-token-ruins/",
+      "urlToImage": "https://static.news.bitcoin.com/wp-content/uploads/2022/05/hhhgfffddsssss.jpg",
+      "publishedAt": "2022-05-21T16:31:44Z",
+      "content": "Following the Terra blockchain fallout and the great UST de-pegging event, the Terra network ecosystem is now a wasteland of almost worthless tokens and protocols. While both UST and LUNA were top te… [+4960 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Wallace Witkowski",
+      "title": "Nvidia’s data-center sales likely to eclipse gaming — that might not be a good thing - MarketWatch",
+      "description": "Nvidia earnings preview: Data-center sales have overtaken gaming in only one previous quarter, but a drop-off from earlier in the pandemic may be a bigger reason than surging server-chip sales",
+      "url": "https://www.marketwatch.com/story/nvidias-data-center-sales-likely-to-eclipse-gaming-that-might-not-be-a-good-thing-11653150198",
+      "urlToImage": "https://images.mktw.net/im-549090/social",
+      "publishedAt": "2022-05-21T16:23:00Z",
+      "content": "Nvidia Corp.s data-center sales are expected to edge out its gaming sales in fiscal first-quarter results, as demand from server farms remains high and gaming interest has subsided from rabid levels … [+5920 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Ukraine-Russia conflict: McDonald's to leave Russia after 30 years | International News | WION - WION",
+      "description": "McDonald's became one of the biggest brands to exit Russia, 850 restaurants being sold to a Russian licensee after operating in the country for more than thr...",
+      "url": "https://www.youtube.com/watch?v=g-dbcWeY9yw",
+      "urlToImage": "https://i.ytimg.com/vi/g-dbcWeY9yw/maxresdefault.jpg",
+      "publishedAt": "2022-05-21T15:58:06Z",
+      "content": null
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Eric Spitznagel",
+      "title": "How Apple got its mojo back after the death of Steve Jobs - New York Post ",
+      "description": "How Apple got its mojo back after the death of Steve Jobs, with a little help from a British design genius and a big idea.",
+      "url": "https://nypost.com/2022/05/21/how-apple-got-its-mojo-back-after-the-death-of-steve-jobs/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/05/steve-jobs-1.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-05-21T15:58:00Z",
+      "content": "In August of 2014, Apples Chief Design Officer Jony Ive flew to New York in a jet filled with Apple Watches. He had arranged for a special unveiling of the companys new product at the Carlyle Hotel o… [+11886 chars]"
+    },
+
+    {
+      "source": {
+        "id": null,
+        "name": "Coingape"
+      },
+      "author": "Ashish Kumar",
+      "title": "Breaking: Do Kwon Clears The Air Over Terra’s Singapore Move - CoinGape",
+      "description": "Terra founder Do Kwon on Saturday cleared the air over Terraform Labs’ recent, controversial move to Singapore.",
+      "url": "https://coingape.com/breaking-do-kwon-clears-the-air-over-terras-singapore-move/",
+      "urlToImage": "https://cdn.coingape.com/wp-content/uploads/2022/05/14122829/Do-Kwon-2.jpg",
+      "publishedAt": "2022-05-21T15:16:53Z",
+      "content": "The Founder of Terra, Do Kwon, and the collapse of Luna are the most talked about topics from the beginning of this month. After proposing some revival plans for the chain, Kwon finally gave out some… [+1827 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Benjamin Berna, Natalie Zhang",
+      "title": "Why the fund shorting Cathie Wood’s ARKK is now ultra-long the ETF - CNBC",
+      "description": "The creator behind the Tuttle Capital Short Innovation ETF (SARK), which shorts the ARKK ETF, has now launched an ultra-long ARKK ETF.",
+      "url": "https://www.cnbc.com/2022/05/21/why-the-fund-shorting-cathie-woods-arkk-is-now-ultra-long-the-etf.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106962578-1634652242845-gettyimages-1235969283-MILKEN_CONFERENCE_2021.jpeg?v=1653078854&w=1920&h=1080",
+      "publishedAt": "2022-05-21T15:00:02Z",
+      "content": "The ETF shorting Cathie Wood's ARK Innovation Fund (ARKK) has been a big winner in 2022. The Tuttle Capital Short Innovation ETF (SARK) has soared more than 75% year-to-date while the ARKK ETF has fa… [+2311 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Yang Jie",
+      "title": "Apple Looks to Boost Production Outside China - The Wall Street Journal",
+      "description": "The iPhone maker has told some of its suppliers that it wants to boost production outside China, citing Beijing’s strict anti-Covid policy among other reasons, and is giving India and Vietnam a closer look, people involved in the discussions said.",
+      "url": "https://www.wsj.com/articles/apple-looks-to-boost-production-outside-china-11653142077",
+      "urlToImage": "https://images.wsj.net/im-548830/social",
+      "publishedAt": "2022-05-21T14:08:00Z",
+      "content": "TOKYOApple has told some of its contract manufacturers that it wants to boost production outside China, citing Beijings strict anti-Covid policy among other reasons, people involved in the discussion… [+195 chars]"
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "How Elon Musk's Twitter Takeover Plans Shook Wall Street And Social Media - CNBC",
+      "description": "Elon Musk is known for using Twitter to hype everything from colonizing Mars to Tesla’s autopilot features. Now, he’s attempting to buy the underperforming s...",
+      "url": "https://www.youtube.com/watch?v=rWW-zwnpvjo",
+      "urlToImage": "https://i.ytimg.com/vi/rWW-zwnpvjo/maxresdefault.jpg",
+      "publishedAt": "2022-05-21T14:00:26Z",
+      "content": null
+    },
+
+    {
+
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Ford 4WD/AWD Explained: Bronco vs. Bronco Sport vs. Maverick - Driving Sports TV",
+      "description": "We explain and demonstrate how Ford's various all-wheel drive systems work on the popular Bronco SUV, Bronco Sport Crossover and Maverick FX4 pickup. #offroa...",
+      "url": "https://www.youtube.com/watch?v=bB1XbIRTPq4",
+      "urlToImage": "https://i.ytimg.com/vi/bB1XbIRTPq4/maxresdefault.jpg",
+      "publishedAt": "2022-05-21T14:00:13Z",
+      "content": null
+    }
+  ]
+
+}
